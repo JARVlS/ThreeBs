@@ -52,4 +52,9 @@
   height: auto;
   background-color: var(--color-bg);
 }
+
+a{
+  text-decoration: none;
+  color: var(--color-text);
+}
 </style>

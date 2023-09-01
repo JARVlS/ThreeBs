@@ -35,6 +35,7 @@
       impactful.
     </p>
   </div>
+  <nuxt-link to="/login">Login</nuxt-link>
 </template>
 
 <script></script>
